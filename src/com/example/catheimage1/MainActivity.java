@@ -89,7 +89,7 @@ public class MainActivity extends Activity implements IXListViewListener,
 		bindMainService();                                                                               
 		bindMainService();                                                                               
 		setContentView(R.layout.activity_main);
-		
+		//guoliuya
 		initView();
 		initData();
 		initAction();
